@@ -13,7 +13,7 @@ I mostly work with Docker, Kuberentes, Ansible, Chef, Github Actions, Jenkins, C
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  
+  <a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-kH6CqYiquZawmU1HI6">
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
