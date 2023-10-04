@@ -58,7 +58,7 @@ I mostly work with Docker, Kuberentes, Ansible, Chef, Github Actions, Jenkins, C
 
 ### 📫 How to reach me?
 
-# - Visit my [Website](https://www.trainwithshubham.com) 🌐
+# - Visit my [Profile](https://www.linkedin.com/in/shahrooz-mehmood/) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/) 👨🏻‍💻
-# - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
+# - Follow me on [Instagram](https://www.linkedin.com/in/shahrooz-mehmood/) ✨
  - Shoot Me an [Email](mailto:shahroozmehmood50@gmail.com) 💌
