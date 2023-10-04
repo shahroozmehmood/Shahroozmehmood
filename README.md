@@ -4,9 +4,9 @@
 **shahroozmehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood/), I'm Shahrooz Mehmood, a professional DevOps engineer from 🇵🇰 with over 2+ years of experience. My expertise includes automating deployments, strong CI/CD knowledge, and containerization with Docker and Kubernetes. I'm proficient in tools like Jenkins, GitHub Actions, CircleCI, and Azure DevOps, dedicated to streamlining software development workflows 🎯.
+I am [Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood/), a experienced DevOps Engineer with over 2+ years of hands-on expertise in implementing and managing a wide range of DevOps tools and practices. Proficient in automating CI/CD pipelines, infrastructure as code, and optimizing software development processes to enhance efficiency, reliability, and scalability. Committed to driving continuous improvement in software delivery🎯.
 
-I mostly work with Docker, Kuberentes, Ansible, Chef, Github Actions, Jenkins, Circle CI, Azure Devops  and Cloud based technologies. 🚀
+I have refined my skills as a DevOps Engineer through extensive work with essential tools such as Git, Docker, Kubernetes, Ansible, and Chef. My expertise extends to orchestrating CI/CD pipelines with Jenkins, GitHub Actions, CircleCI, Azure DevOps, and GitLab. My commitment to streamlining software development processes and enhancing collaboration within cross-functional teams is underscored by my proficiency in these technologies. With a strong foundation in these DevOps tools, I am poised to drive continuous improvement and deliver robust, scalable solutions.🚀
 
 
 <p float="left">
