@@ -36,12 +36,12 @@ I have refined my skills as a DevOps Engineer through extensive work with essent
 ### Cloud Computing
   
  <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  </a> 
  </p>
   
 ### Monitoring
