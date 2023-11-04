@@ -109,6 +109,11 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
 ## 💻**Scripting:**
 <br>
 With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script your way to automation and efficiency.
+<br>
+<br>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bash.png" height="105" />
+  </a>
 
 ## 👨‍🍳**Configuration Management:**
 <br>
