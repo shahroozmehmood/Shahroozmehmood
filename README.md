@@ -14,15 +14,15 @@ I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</st
 
   <p float="left">
   <a href="https://git-scm.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shahrooz2211/asstes/master/assets/git.avif"  height="75" />
+    <img src="https://raw.githubusercontent.com/shahrooz2211/asstes/master/assets/git.avif"  height="105" />
   </a>
 
   <a href="https://github.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/github.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/github.gif"  height="105" />
   </a> 
 
   <a href="https://bitbucket.org/product/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bitbucket.gif"  height="95" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bitbucket.gif"  height="105" />
   </a> 
 
 
