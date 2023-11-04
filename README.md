@@ -105,7 +105,7 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/aws.gif" height="105" />
   </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure1.gif" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure2.png" height="105" />
   </a>
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif" height="105" />
