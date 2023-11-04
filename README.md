@@ -10,7 +10,13 @@ Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood
 
 ## 🔀**Version Control:**
 <br>
-I wield Git, GitHub, and BitBucket with precision, ensuring impeccable version control throughout your development process.
+I wield **Git**, **GitHub**, and **BitBucket** with precision, ensuring impeccable version control throughout your development process.
+
+  <p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/shahrooz2211/asstes/master/assets/git.avif"  height="75" />
+  </a>
+
 
 ## 🐳**Containerization & Orchestration:**
 <br>
