@@ -62,7 +62,7 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 <br>
 <be>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="150" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="180" />
   </a>
 
 ## 📊**Monitoring & Observability:**
