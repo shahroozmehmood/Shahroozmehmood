@@ -13,9 +13,17 @@ Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood
 I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</strong> with precision, ensuring impeccable version control throughout your development process.
 
   <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://git-scm.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/shahrooz2211/asstes/master/assets/git.avif"  height="75" />
   </a>
+
+  <a href="https://github.com/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/github.gif"  height="75" />
+  </a> 
+
+  <a href="https://bitbucket.org/product/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bitbucket.gif"  height="75" />
+  </a> 
 
 
 ## 🐳**Containerization & Orchestration:**
