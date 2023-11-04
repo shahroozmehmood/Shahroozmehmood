@@ -69,22 +69,22 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/), an
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="90" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/golang.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/helm.gif"  height="75" />
   </a
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd.gif"  height="65" />
   </a>
     <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="120" />
   </a>
  </p>
   
