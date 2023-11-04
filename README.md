@@ -33,14 +33,14 @@ I empower your applications with <strong>Docker containerization</strong> and <s
 <br>
 <br>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="95" /> 
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="115" /> 
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/k8s.gif"  height="95" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/k8s.gif"  height="115" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/helm.gif"  height="95" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/helm.gif"  height="115" />
   </a>
 
 ## 🔄**CI/CD Mastery:**
