@@ -10,7 +10,7 @@ Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood
 
 ## 🔀**Version Control:**
 <br>
-I wield <strong>Git</strong>, **GitHub**, and **BitBucket** with precision, ensuring impeccable version control throughout your development process.
+I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</strong>strong> with precision, ensuring impeccable version control throughout your development process.
 
   <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -20,39 +20,39 @@ I wield <strong>Git</strong>, **GitHub**, and **BitBucket** with precision, ensu
 
 ## 🐳**Containerization & Orchestration:**
 <br>
-I empower your applications with Docker containerization and orchestrate them flawlessly using Kubernetes, enabling flexibility and scalability.
+I empower your applications with <strong>Docker containerization</strong> and <strong>orchestrate</strong> them flawlessly using <strong>Kubernetes</strong>, enabling flexibility and scalability.
 
 ## 🔄**CI/CD Mastery:**
 <br>
-I'm well-versed in the art of crafting and optimizing Continuous Integration/Continuous Deployment (CI/CD) pipelines, with a toolkit that includes Jenkins, Azure DevOps, CircleCI, TeamCity, GitHub Actions, and a host of other top-tier CI/CD tools. I'm dedicated to automating your path to software excellence, ensuring your projects reach their full potential from commit to build and beyond.
+I'm well-versed in the art of crafting and optimizing <strong>Continuous Integration/Continuous Deployment (CI/CD) pipelines</strong>, with a toolkit that includes <strong>Jenkins, Azure DevOps, CircleCI, TeamCity, GitHub Actions,</strong> and a host of other <strong>top-tier CI/CD tools.</strong> I'm dedicated to automating your path to software excellence, ensuring your projects reach their full potential from commit to build and beyond.
 
 ## 🏗 **IAC Tools:**
 <br>
-Terraform and CloudFormation are my crafting tools for Infrastructure as Code (IAC), enabling infrastructure management as code, resulting in agility and reliability.
+<strong>Terraform</strong> and <strong>CloudFormation</strong> are my crafting tools for <strong>Infrastructure as Code (IAC),</strong> enabling infrastructure management as code, resulting in agility and reliability.
 
 ## 📊**Monitoring & Observability:**
 <br>
-Prometheus, Grafana, and the ELK stack are my eyes and ears, providing deep insights and proactive issue resolution.
+<strong>Prometheus, Grafana, </strong>and the <strong>ELK stack</strong> are my eyes and ears, providing deep insights and proactive issue resolution.
 
 ## ☁️**Cloud Platforms:**
 <br>
-I navigate seamlessly through AWS, Azure, and GCP, molding cloud environments to your needs and harnessing their full potential.
+I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding cloud environments to your needs and harnessing their full potential.
 
 ## 💻**Scripting:**
 <br>
-With proficiency in Bash and PowerShell, I script your way to automation and efficiency.
+With proficiency in <strong>Bash, PowerShell, Python and go ,</strong> I script your way to automation and efficiency.
 
 ## 👨‍🍳**Configuration Management:**
 <br>
-Ansible and Chef are my secret ingredients for maintaining configuration harmony across your infrastructure.
+<strong>Ansible</strong> and <strong>Chef</strong> are my secret ingredients for maintaining configuration harmony across your infrastructure.
 
 ## 🤝**Collaboration:**
 <br>
-I foster teamwork with tools like Zoho, Jira, Slack, and Discord enhancing communication and productivity within your teams.
+I foster teamwork with tools like <strong>Zoho, Jira, Slack,</strong> <strong> and Discord </strong> enhancing communication and productivity within your teams.
 
 ## 🚀**DevOps Methodologies:**
 <br>
-I'm well-versed in Agile, Scrum, CI/CD, and Site Reliability Engineering (SRE) methodologies, tailoring them to your unique project needs.
+I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliability Engineering (SRE) methodologies,</strong> tailoring them to your unique project needs.
 
 ## 🤝**Let's Collaborate:**
 <br>
