@@ -92,17 +92,17 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
 
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/aws.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/aws.gif"  height="105" />
   </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure.gif"  height="105" />
   </a>
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="105" />
   </a> 
  </p>
   <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="1105" />
   </a> 
  </p>
   
