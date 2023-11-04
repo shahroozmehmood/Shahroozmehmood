@@ -102,7 +102,7 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
   </a> 
  </p>
   <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="1105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="105" />
   </a> 
  </p>
   
