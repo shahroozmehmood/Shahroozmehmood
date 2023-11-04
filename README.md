@@ -84,12 +84,13 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="80" />
-  </a>
   <a href="https://www.elastic.co/elastic-stack" target="_blank" >
     <img src="https://raw.githubusercontent.com/shahrooz2211/asstes/master/assets/elk.webp" height="80" />
   </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="80" />
+  </a>
+
 </p>
 
 
