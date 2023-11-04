@@ -10,7 +10,7 @@ Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood
 
 ## 🔀**Version Control:**
 <br>
-I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</strong>strong> with precision, ensuring impeccable version control throughout your development process.
+I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</strong> with precision, ensuring impeccable version control throughout your development process.
 
   <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -40,7 +40,7 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
 
 ## 💻**Scripting:**
 <br>
-With proficiency in <strong>Bash, PowerShell, Python and go ,</strong> I script your way to automation and efficiency.
+With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script your way to automation and efficiency.
 
 ## 👨‍🍳**Configuration Management:**
 <br>
@@ -56,7 +56,7 @@ I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliab
 
 ## 🤝**Let's Collaborate:**
 <br>
-I'm here to transform your software development process, ensuring it's efficient and exceptional. Your success is my passion, and I'm ready to lead your projects to new heights.
+<strong>I'm here to transform your software development process, ensuring it's efficient and exceptional. Your success is my passion, and I'm ready to lead your projects to new heights.</strong>
 <br>
 <br>
 <br>
