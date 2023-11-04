@@ -68,6 +68,21 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 ## 📊**Monitoring & Observability:**
 <br>
 <strong>Prometheus, Grafana, </strong>and the <strong>ELK stack</strong> are my eyes and ears, providing deep insights and proactive issue resolution.
+<br>
+<br>
+
+<p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+</p>
+
 
 ## ☁️**Cloud Platforms:**
 <br>
@@ -127,29 +142,10 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/golang.gif"  height="90" />
-  </a>
-
-
-
-
- </p>
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/golang.gif"  height="90"
+    
   
 
-  
-### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-</p>
 
 ### Databases
   
