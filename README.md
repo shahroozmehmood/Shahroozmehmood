@@ -45,6 +45,13 @@ I empower your applications with <strong>Docker containerization</strong> and <s
 <br>
 I'm well-versed in the art of crafting and optimizing <strong>Continuous Integration/Continuous Deployment (CI/CD) pipelines</strong>, with a toolkit that includes <strong>Jenkins, Azure DevOps, CircleCI, TeamCity, GitHub Actions,</strong> and a host of other <strong>top-tier CI/CD tools.</strong> I'm dedicated to automating your path to software excellence, ensuring your projects reach their full potential from commit to build and beyond.
 
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd%20pipe.gif"  height="65" />
+  </a>
+
 ## 🏗 **IAC Tools:**
 <br>
 <strong>Terraform</strong> and <strong>CloudFormation</strong> are my crafting tools for <strong>Infrastructure as Code (IAC),</strong> enabling infrastructure management as code, resulting in agility and reliability.
@@ -115,9 +122,7 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
   </a>
 
 
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd.gif"  height="65" />
-  </a>
+
     <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="120" />
   </a>
