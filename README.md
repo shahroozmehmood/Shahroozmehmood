@@ -67,6 +67,9 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="180" />
   </a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cloudformation.png" width="180" />
+  </a>
 
 ## 📊**Monitoring & Observability:**
 <br>
