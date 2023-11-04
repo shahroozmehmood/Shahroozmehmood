@@ -87,7 +87,25 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 ## ☁️**Cloud Platforms:**
 <br>
 I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding cloud environments to your needs and harnessing their full potential.
+<br>
+<br>
 
+<p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/aws.gif"  height="75" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure.gif"  height="75" />
+  </a>
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  </a> 
+ </p>
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="75" />
+  </a> 
+ </p>
+  
 ## 💻**Scripting:**
 <br>
 With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script your way to automation and efficiency.
@@ -119,23 +137,9 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 <br>
 
 
-#Cloud Computing
+
   
- <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/aws.gif"  height="75" />
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/azure.gif"  height="75" />
-  </a>
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
- </p>
-  <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/GCP.gif"  height="75" />
-  </a> 
- </p>
+
 
 
 ### DevOps 
