@@ -137,8 +137,10 @@ With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script 
 ## 👨‍🍳**Configuration Management:**
 <br>
 <strong>Ansible</strong> and <strong>Chef</strong> are my secret ingredients for maintaining configuration harmony across your infrastructure.
+<br>
+<br>
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/ansible.gif" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/ansible.png" height="105" />
   </a>
     <a href="https://www.chef.io/products/chef-infra" target="_blank">
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/chef.png" height="105" />
