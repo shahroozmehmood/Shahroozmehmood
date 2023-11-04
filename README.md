@@ -55,6 +55,9 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd%20pipe.gif"  height="105" />
   </a>
+  <a href="https://circleci.com/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/circleci.png"  height="105" />
+  </a>
 
 ## 🏗 **IAC Tools:**
 <br>
