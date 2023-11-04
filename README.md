@@ -12,8 +12,8 @@ I wield Git, GitHub, and BitBucket with precision, ensuring impeccable version c
 🐳 Containerization & Orchestration:
 I empower your applications with Docker containerization and orchestrate them flawlessly using Kubernetes, enabling flexibility and scalability.
 
-🔄 CI/CD:
-Jenkins and Azure DevOps are my trusted allies in crafting and optimizing Continuous Integration/Continuous Deployment (CI/CD) pipelines, automating your path to software excellence.
+🔄 CI/CD Mastery:
+I'm well-versed in the art of crafting and optimizing Continuous Integration/Continuous Deployment (CI/CD) pipelines, with a toolkit that includes Jenkins, Azure DevOps, CircleCI, TeamCity, GitHub Actions, and a host of other top-tier CI/CD tools. I'm dedicated to automating your path to software excellence, ensuring your projects reach their full potential from commit to build and beyond.
 
 🏗 IAC Tools:
 Terraform and CloudFormation are my crafting tools for Infrastructure as Code (IAC), enabling infrastructure management as code, resulting in agility and reliability.
@@ -27,17 +27,17 @@ I navigate seamlessly through AWS, Azure, and GCP, molding cloud environments to
 💻 Scripting:
 With proficiency in Bash and PowerShell, I script your way to automation and efficiency.
 
-🤝 Collaboration:
-I foster teamwork with tools like Zoho, Jira, and Slack, enhancing communication and productivity within your teams.
-
 👨‍🍳 Configuration Management:
 Ansible and Chef are my secret ingredients for maintaining configuration harmony across your infrastructure.
+
+🤝 Collaboration:
+I foster teamwork with tools like Zoho, Jira, Slack, and Discord enhancing communication and productivity within your teams.
 
 🚀 DevOps Methodologies:
 I'm well-versed in Agile, Scrum, CI/CD, and Site Reliability Engineering (SRE) methodologies, tailoring them to your unique project needs.
 
 🤝 Let's Collaborate:
-I'm here to transform your software development process, ensuring it's not just efficient but exceptional. Your success is my passion, and I'm ready to lead your projects to new heights.
+I'm here to transform your software development process, ensuring it's efficient and exceptional. Your success is my passion, and I'm ready to lead your projects to new heights.
 
 Connect with me on LinkedIn, and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. Get in touch, and let's make it happen. 🚀💼🌐
 
