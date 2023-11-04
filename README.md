@@ -33,14 +33,14 @@ I empower your applications with <strong>Docker containerization</strong> and <s
 <br>
 <br>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="80" /> 
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/docker.gif"  height="95" /> 
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/k8s.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/k8s.gif"  height="95" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/helm.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/helm.gif"  height="95" />
   </a>
 
 ## 🔄**CI/CD Mastery:**
@@ -50,7 +50,7 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 <br>
 <br>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd.gif"  height="85" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd.gif"  height="95" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/cicd%20pipe.gif"  height="105" />
