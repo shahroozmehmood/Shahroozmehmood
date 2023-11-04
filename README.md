@@ -4,7 +4,9 @@
 **shahroozmehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Greetings, I'm Shahrooz Mehmood, a DevOps maestro with a mission to elevate software development to its highest potential. With a dynamic skill set that spans the entire DevOps spectrum, I'm your trusted partner in achieving seamless, efficient, and scalable software delivery.
+Greetings, I'm [Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood/), a DevOps maestro with a mission to elevate software development to its highest potential. With a dynamic skill set that spans the entire DevOps spectrum, I'm your trusted partner in achieving seamless, efficient, and scalable software delivery.
+
+
 
 🔀 Version Control:
 I wield Git, GitHub, and BitBucket with precision, ensuring impeccable version control throughout your development process.
@@ -39,7 +41,9 @@ I'm well-versed in Agile, Scrum, CI/CD, and Site Reliability Engineering (SRE) m
 🤝 Let's Collaborate:
 I'm here to transform your software development process, ensuring it's efficient and exceptional. Your success is my passion, and I'm ready to lead your projects to new heights.
 
-Connect with me on LinkedIn, and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. Get in touch, and let's make it happen. 🚀💼🌐
+
+
+Connect with me on [LinkdIn](https://www.linkedin.com/in/shahrooz-mehmood/), and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. Get in touch, and let's make it happen. 🚀💼🌐
 
 
 ### Cloud Computing
