@@ -43,7 +43,7 @@ I'm here to transform your software development process, ensuring it's efficient
 
 
 
-Connect with me on [LinkdIn](https://www.linkedin.com/in/shahrooz-mehmood/), and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. Get in touch, and let's make it happen. 🚀💼🌐
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/), and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. Get in touch, and let's make it happen. 🚀💼🌐
 
 
 ### Cloud Computing
