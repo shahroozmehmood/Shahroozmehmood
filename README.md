@@ -22,7 +22,7 @@ I wield <strong>Git</strong>, <strong>GitHub</strong>, and <strong>BitBucket</st
   </a> 
 
   <a href="https://bitbucket.org/product/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bitbucket.gif"  height="75" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bitbucket.gif"  height="95" />
   </a> 
 
 
