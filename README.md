@@ -59,6 +59,10 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 ## 🏗 **IAC Tools:**
 <br>
 <strong>Terraform</strong> and <strong>CloudFormation</strong> are my crafting tools for <strong>Infrastructure as Code (IAC),</strong> enabling infrastructure management as code, resulting in agility and reliability.
+<br>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="120" />
+  </a>
 
 ## 📊**Monitoring & Observability:**
 <br>
@@ -127,9 +131,7 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 
 
 
-    <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="120" />
-  </a>
+
  </p>
   
 
