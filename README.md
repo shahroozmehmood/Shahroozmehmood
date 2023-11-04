@@ -8,7 +8,7 @@ Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood
 
 
 
-##🔀**Version Control:**
+## 🔀**Version Control:**
 <br>
 I wield Git, GitHub, and BitBucket with precision, ensuring impeccable version control throughout your development process.
 
