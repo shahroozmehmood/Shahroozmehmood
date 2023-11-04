@@ -60,6 +60,7 @@ I'm well-versed in the art of crafting and optimizing <strong>Continuous Integra
 <br>
 <strong>Terraform</strong> and <strong>CloudFormation</strong> are my crafting tools for <strong>Infrastructure as Code (IAC),</strong> enabling infrastructure management as code, resulting in agility and reliability.
 <br>
+<be>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/terraform.gif" width="120" />
   </a>
