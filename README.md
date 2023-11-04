@@ -111,8 +111,17 @@ I navigate seamlessly through <strong> AWS, Azure, and GCP, </strong>molding clo
 With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script your way to automation and efficiency.
 <br>
 <br>
-  <a href="https://cloud.google.com/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bash.png" height="105" />
+  </a>
+  <a href="https://powershell.org/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/poweshell.png" height="105" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/python.gif" height="105" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/golang.gif" height="105" />
   </a>
 
 ## 👨‍🍳**Configuration Management:**
