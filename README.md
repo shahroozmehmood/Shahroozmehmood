@@ -169,6 +169,17 @@ I foster teamwork with tools like <strong>Zoho, Jira, Slack,</strong> <strong> a
 ## 🚀**DevOps Methodologies:**
 <br>
 I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliability Engineering (SRE) methodologies,</strong> tailoring them to your unique project needs.
+<br>
+<br>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/agile.png" height="105" />
+  </a>
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/Devsecops.gif" height="105" />
+  </a>
+    <a href="https://discord.com/" target="_blank">
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/sre.png" height="105" />
+  </a>
 
 ## 🤝**Let's Collaborate:**
 <br>
