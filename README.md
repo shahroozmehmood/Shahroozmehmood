@@ -147,6 +147,20 @@ With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script 
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/chef.png" height="105" />
   </a>
 
+ ## 🐘 **Databases**
+  
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  </a>
+  <a href="https://www.timescale.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+  </a>
+</p>
+
 
 ## 🤝**Collaboration:**
 <br>
@@ -193,20 +207,6 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 <br>
 <br>
 <br>
-
-### Databases
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
-  </a>
-</p>
 
 
 ### 📫 How to reach me?
