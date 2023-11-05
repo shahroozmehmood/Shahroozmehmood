@@ -158,7 +158,7 @@ I specialize in database administration, leveraging renowned systems like <stron
     <img src="" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+    <img src="" width="120" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
