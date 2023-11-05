@@ -155,13 +155,13 @@ I specialize in database administration, leveraging renowned systems like <stron
 
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/postgresql.gif" height="125" />&nbsp;&nbsp;
   </a>
   <a href="https://www.timescale.com/" target="_blank" >
-    <img src="" width="120" />
-  </a>&nbsp;&nbsp;
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/tsdb.gif" width="125" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/mongo.gif" height="80" />
   </a>
  </p>
 
