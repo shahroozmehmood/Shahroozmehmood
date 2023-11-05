@@ -155,7 +155,7 @@ I specialize in database administration, leveraging renowned systems like <stron
 
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.timescale.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
