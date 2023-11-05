@@ -157,7 +157,7 @@ I foster teamwork with tools like <strong>Zoho, Jira, Slack,</strong> <strong> a
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/zoho.webp" height="105" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src=">https://github.com/shahrooz2211/asstes/blob/master/assets/jira.png" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/jira.png" height="105" />
   </a>
   <a href="https://slack.com/" target="_blank">
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/slack.avif" height="105" />
