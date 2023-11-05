@@ -155,10 +155,10 @@ I specialize in database administration, leveraging renowned systems like <stron
 
 <p float="left">
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/postgresql.gif" height="125" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/postgresql.gif" height="125" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.timescale.com/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/tsdb.gif" width="125" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/tsdb.gif" width="125" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/mongo.gif" height="125" />
