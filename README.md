@@ -152,6 +152,7 @@ With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script 
 I specialize in database administration, leveraging renowned systems like <strong>PostgreSQL, Timescale, and MongoDB,</strong> to ensure impeccable data management and performance across your infrastructure.
 <br>
 <br>  
+
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
@@ -162,7 +163,7 @@ I specialize in database administration, leveraging renowned systems like <stron
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
-</p>
+ </p>
 
 
 ## 🤝**Collaboration:**
