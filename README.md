@@ -122,7 +122,7 @@ With proficiency in <strong>Bash, PowerShell, Python and Go ,</strong> I script 
 <br>
 <br>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bash.png" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/bash2.png" height="105" />
   </a>
   <a href="https://powershell.org/" target="_blank">
     <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/poweshell.png" height="105" />
