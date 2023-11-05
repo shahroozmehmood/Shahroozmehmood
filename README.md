@@ -172,13 +172,13 @@ I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliab
 <br>
 <br>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/agile.png" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/agile.png" height="135" />
   </a>
   <a href="https://slack.com/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/Devsecops.gif" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/Devsecops.gif" height="135" />
   </a>
     <a href="https://discord.com/" target="_blank">
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/sre.png" height="105" />
+    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/sre.png" height="135" />
   </a>
 
 ## 🤝**Let's Collaborate:**
@@ -192,23 +192,7 @@ I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliab
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**, and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. **Get in touch, and let's make it happen.** 🚀💼🌐
 <br>
 <br>
-<be>
 <br>
-
-
-
-  
-
-
-
-### DevOps 
-
-<p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/shahrooz2211/asstes/blob/master/assets/golang.gif"  height="90"
-    
-  
-
 
 ### Databases
   
