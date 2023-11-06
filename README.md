@@ -1,4 +1,4 @@
-# **Hi there** 👋
+#Hi there 👋
 
 <!--
 **shahroozmehmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -218,5 +218,5 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 
 # - Visit my [Profile](https://www.linkedin.com/in/shahrooz-mehmood/) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/) 👨🏻‍💻
-# - Follow me on [Instagram](https://www.linkedin.com/in/shahrooz-mehmood/) ✨
+# - Follow me on [Linkedin](https://www.linkedin.com/in/shahrooz-mehmood/) ✨
  - Shoot Me an [Email](mailto:shahroozmehmood50@gmail.com) 💌
