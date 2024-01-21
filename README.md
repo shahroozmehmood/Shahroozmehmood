@@ -216,7 +216,7 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/)**
 
 ### 📫 How to reach me?
 
-# - Visit my [Profile](https://www.linkedin.com/in/shahrooz-mehmood/) 🌐
+# - Visit my [Profile](https://www.DevOpsifyHub.com) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shahrooz-mehmood/) 👨🏻‍💻
-# - Follow me on [Linkedin](https://www.linkedin.com/in/shahrooz-mehmood/) ✨
- - Shoot Me an [Email](mailto:shahroozmehmood50@gmail.com) 💌
+# - Follow me on [Instagram](https://www.instagram.com/devopsifyhub/) ✨
+ - Shoot Me an [Email](mailto:contact@devopsifyhub.com) 💌
