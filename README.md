@@ -6,6 +6,8 @@
 
 Greetings, I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood/)**, a DevOps expert  with a mission to elevate software development to its highest potential. With a dynamic skill set that spans the entire DevOps spectrum, I'm your trusted partner in achieving seamless, efficient, and scalable software delivery.
 
+Greetings! I'm **[Shahrooz Mehmood](https://www.linkedin.com/in/shahrooz-mehmood/)**, a seasoned DevOps engineer with 5 years of experience across AWS, Azure, GCP, Heroku, and DigitalOcean. My hands-on expertise includes Docker, Kubernetes, Ansible, Chef, Terraform, and CloudFormation. Proficient in CI/CD tools such as Jenkins, GitHub Actions, Bitbucket Pipeline, TeamCity, GitLab CI/CD, AWS DevOps, and Azure DevOps. 
+Let's collaborate to enhance your software development journey!
 
 
 ## 🔀**Version Control:**
